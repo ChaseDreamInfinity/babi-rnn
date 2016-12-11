@@ -1,5 +1,5 @@
 # RNN for bAbI tasks
-This is an implementation of basic RNN model for bAbI tasks using Tensorflow with the reference of [keras example] (https://github.com/fchollet/keras/blob/master/examples/babi_rnn.py) and cs224d assignment.
+This is an implementation of basic RNN model for bAbI tasks using Tensorflow with the reference of [keras example] (https://github.com/fchollet/keras/blob/master/examples/babi_rnn.py) and Stanford cs224d assignment.
 
 # Requirements
 * Python 3.5
